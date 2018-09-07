@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Search page</title>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Data picker -->
+    <link href="../css/datepicker.css" rel="stylesheet" type="text/css">
+
+    <!-- Reset styles -->
+    <link rel="stylesheet" href="../css/reset.css">
+    <!-- Style -->
+    <link rel="stylesheet" href="../css/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <form class="search__form" method="post">
+        <div class="search-component">
+          <input class="search__input" type="text" name="" value="" placeholder="Search...">
+          <div class="search__icon">
+            <i class="fa fa-search" aria-hidden="true"></i>
+          </div>
+        </div>
+      </form>
+
+      <div class="date-picker__wrapper">
+
+          <input type='text' class='datepicker-here date-picker__input' placeholder="Select date from" data-language='en' />
+
+          <input type='text' class='datepicker-here date-picker__input' placeholder="Select date to" data-language='en' />
+      </div>
+
+
+
+
+    </div>
+
+
+
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+    <!-- Date picker -->
+    <script src="../js/datepicker.js"></script>
+   <!-- Include English language -->
+    <script src="../js/i18n/datepicker.en.js"></script>
+  </body>
+</html>

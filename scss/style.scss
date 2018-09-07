@@ -1,0 +1,79 @@
+// Variables
+$black: #000;
+$white: #fff;
+
+body {
+  font-family: sans-serif;
+}
+
+// Container
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  margin: 0 auto;
+
+  @media screen and (min-width: 882px){
+        width: 905px;
+  }
+
+  @media screen and (min-width: (min-width: 1140px)px){
+        width: 1125px;
+  }
+
+  @media screen and (min-width: 1378px){
+        width: 1325px;
+  }
+}
+
+
+// Search styles
+.search-component {
+  position: relative;
+}
+
+.search__input {
+  background-color: none;
+  border: none;
+  border-bottom: 3px solid $black;
+  padding-left: 10px;
+  width: 100%;
+  &:focus {
+    outline: none;
+  }
+}
+
+.search__icon {
+  background-color: $black;
+  border: 2px solid $black;
+  color: #fff;
+  cursor: pointer;
+  padding: 6px 10px;
+  position: absolute;
+  bottom: 1px;
+  right: 0;
+  transition: background-color .3s,
+              color .3s;
+  &:hover {
+    background-color: $white;
+    color: $black;
+  }
+}
+
+// Date picker
+.date-picker__wrapper {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 90px;
+}
+
+.date-picker__input {
+  border: 2px solid $black;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.date-picker__input::placeholder {
+    color    : $black;
+}
