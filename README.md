@@ -10,7 +10,7 @@ PHP-Redis version:<br/>
 		RediSearch - https://oss.redislabs.com/redisearch/Quick_Start/ <br/>
 		
 	Start:<br/>
-		redis-server --loadmodule ./redisearch.so
+		redis-server --loadmodule ./redisearch.so <br/>
 		
 	Crawling:<br/>
 		To run crawer manually start-crawler.php <br/>
