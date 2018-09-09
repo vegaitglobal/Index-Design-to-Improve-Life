@@ -16,8 +16,8 @@ PHP-Redis version:<br/>
 		To run crawer manually start-crawler.php  
 		To run scheduled crawling add cron jobs in /etc/crontab file  
 		
-Front:
-	Dev:
+Front:<br/>
+	Dev:<br/>
 		Install Node.js <br/>
 		Install Npm <br/>
 		Run 'npm install' in front root folder to install dependencies, then run 'npm run dev' <br/>
