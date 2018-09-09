@@ -1,5 +1,5 @@
 # Index-Design-to-Improve-Life
-INDEX: Design to Improve Life® is a Danish NPO with global reach. We Inspire, Educate and Engage in designing sustainable solutions to global challenges.
+INDEX: Design to Improve Life® is a Danish NPO with global reach. We Inspire, Educate and Engage in designing sustainable solutions to global challenges.<br/>
 How to start:<br/>
 
 PHP-Redis version:<br/>
@@ -9,12 +9,12 @@ PHP-Redis version:<br/>
 		Redis<br/>
 		RediSearch - https://oss.redislabs.com/redisearch/Quick_Start/ <br/>
 		
-	Start:<br/>
-		redis-server --loadmodule ./redisearch.so <br/>
+	Start:  
+		redis-server --loadmodule ./redisearch.so  
 		
-	Crawling:<br/>
-		To run crawer manually start-crawler.php <br/>
-		To run scheduled crawling add cron jobs in /etc/crontab file  <br/>
+	Crawling:  
+		To run crawer manually start-crawler.php  
+		To run scheduled crawling add cron jobs in /etc/crontab file  
 		
 Front:
 	Dev:
@@ -22,5 +22,5 @@ Front:
 		Install Npm <br/>
 		Run 'npm install' in front root folder to install dependencies, then run 'npm run dev' <br/>
 		
-	Prod: Build files are in 'dist' folder, to build again run 'npm run build' <br/>
+	Prod: Build files are in 'dist' folder, to build again run 'npm run build'
 	
