@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="688e0ffb-1a7f-4e2e-bd68-4696139cec51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/RoboFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/AbstractRedisRawClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/Exceptions/RawCommandErrorException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/Exceptions/RedisRawCommandException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/Exceptions/UnknownIndexNameException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/Exceptions/UnknownRediSearchCommandException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/Exceptions/UnsupportedRediSearchLanguageException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/Exceptions/UnsupportedRedisDatabaseException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/PhpRedisAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/PredisAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/RedisClientAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/src/RedisRawClientInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/tests/AbstractTestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/tests/RedisRaw/RedisRawClientTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/tests/TestTimeListener.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redis-raw/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/RoboFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/aggregating.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/indexing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/laravel-support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/searching.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs-src/suggesting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/aggregating/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/images/icons/bitbucket.4ebea66e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/images/icons/github.a4034fb1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/images/icons/gitlab.348cdb3a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/application.b438e6c5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.du.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.jp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.multi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.stemmer.support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/lunr.tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/lunr/tinyseg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/javascripts/modernizr.1aa3b519.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/stylesheets/application-palette.6079476c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/assets/stylesheets/application.8d40d89b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/changelog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/indexing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/laravel-support/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/search/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/searching/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/docs/suggesting/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/mkdocs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/AbstractIndex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/AggregationResult.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Builder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/BuilderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Operations/AbstractFieldNameOperation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Operations/Apply.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Operations/GroupBy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Operations/Limit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Operations/Load.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Operations/SortBy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/AbstractFieldNameReducer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/Avg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/Count.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/CountDistinct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/CountDistinctApproximate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/FirstValue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/Max.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/Min.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/Quantile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/StandardDeviation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/Sum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Aggregate/Reducers/ToList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/CanBecomeArrayInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Document/AbstractDocumentFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Document/Document.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Document/DocumentInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Exceptions/FieldNotInSchemaException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Exceptions/NoFieldsInIndexException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Exceptions/OutOfRangeDocumentScoreException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/AbstractField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/FieldFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/FieldInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/GeoField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/GeoLocation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/Noindex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/NumericField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/Sortable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Fields/TextField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/IndexInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Query/Builder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Query/BuilderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Query/SearchResult.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/src/Suggestion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/AbstractTestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Aggregate/AggregationResultTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Aggregate/BuilderTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Document/DocumentTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Exceptions/FieldNotInSchemaExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Exceptions/NoFieldsInIndexExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Exceptions/RedisRawCommandExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Exceptions/UnknownIndexNameExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Fields/FieldFactoryTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Fields/GeoFieldTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Fields/GeoLocationTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Fields/NumericFieldTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Fields/TextFieldTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/IndexTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Query/BuilderTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/Redis/RedisClientTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/RediSearch/SuggestionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/Stubs/IndexWithoutFields.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/Stubs/TestDocument.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/Stubs/TestIndex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/TestTimeListener.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ethanhann/redisearch-php/travis-php.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/predis/predis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/AbstractLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LogLevel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/LoggerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/NullLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/composer.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1027088238">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="1913" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="1913" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php-redis/api/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php-redis/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>book</find>
+      <find>bookIndex</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/api.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/php-redis/api/api.php" />
+        <option value="$PROJECT_DIR$/php-redis/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/ethanhann/redisearch-php" />
+      <path value="$PROJECT_DIR$/vendor/ethanhann/redis-raw" />
+      <path value="$PROJECT_DIR$/vendor/peppeocchi/php-cron-scheduler" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/povils/figlet" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Index-Design-to-Improve-Life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Index-Design-to-Improve-Life" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Index-Design-to-Improve-Life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Index-Design-to-Improve-Life" type="462c0819:PsiDirectoryNode" />
+              <item name="php-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Index-Design-to-Improve-Life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Index-Design-to-Improve-Life" type="462c0819:PsiDirectoryNode" />
+              <item name="php-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688e0ffb-1a7f-4e2e-bd68-4696139cec51" name="Default Changelist" comment="" />
+      <created>1536400692646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536400692646</updated>
+      <workItem from="1536400693739" duration="19201000" />
+      <workItem from="1536492666676" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19408000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.098719314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <folding>
+            <element signature="e#43#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <element signature="e#46#79#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="52" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-redis/api/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-redis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

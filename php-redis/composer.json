@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ethanhann/redisearch-php": "^1.1",
+        "predis/predis": "1.1.*@dev",
+        "peppeocchi/php-cron-scheduler": "^2.3",
+        "povils/figlet": "dev-master"
+    }
+}
