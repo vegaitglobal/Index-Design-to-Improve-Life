@@ -4,10 +4,10 @@ How to start:<br/>
 
 PHP-Redis version:<br/>
 	Requirements:<br/>
-		Apache<br/>
-		PHP<br/>
-		Redis<br/>
-		RediSearch - https://oss.redislabs.com/redisearch/Quick_Start/ <br/>
+		-Apache<br/>
+		-PHP<br/>
+		-Redis<br/>
+		-RediSearch - https://oss.redislabs.com/redisearch/Quick_Start/ <br/>
 		
 	Start:  
 		redis-server --loadmodule ./redisearch.so  
